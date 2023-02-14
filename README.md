@@ -14,4 +14,8 @@
 </div>
 
 
-![terminal](https://user-images.githubusercontent.com/78863735/218498111-15d7e1e1-6b2e-4371-830b-a286a1956227.gif)
+
+
+
+https://user-images.githubusercontent.com/78863735/218717158-5b630c6f-cb1f-4ccb-b5a1-ece95d311d1d.mp4
+
