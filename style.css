@@ -475,16 +475,18 @@ a.button:hover {
 	to { width: 100% }
   }
 
-  .restricted p {
+  .restricted {
+    column-count: 2;
+    column-gap: 40px;
+    font-family: 'fixedsys';
+    font-size: 1.5em;
+    margin: 150px auto;
+}
 
-	  font-family: 'fixedsys';
-	  font-size: 1.5em;
-	  margin-left: 0 auto;
-	  margin-right: 0 auto;
-	  margin:150px;
-	  margin-bottom: 0 auto;
-
-  }
+.restricted p {
+    margin: 0;
+    text-align: justify;
+}
 
 
 /* ===== Scrollbar CSS ===== */
