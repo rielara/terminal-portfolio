@@ -450,6 +450,7 @@ a.button:hover {
 	70% { border-color: #00dd00}
   } */
 
+
   
   .typewriter p {
 	color: #00dd00;
@@ -487,6 +488,42 @@ a.button:hover {
     margin: 0;
     text-align: justify;
 }
+
+.vault {
+	align-items: center;
+}
+
+.arrows {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 20px; 
+  }
+  
+  .arrow-up {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 3px; 
+	margin-top: 20px;
+  }
+  
+  .arrow-row {
+	display: flex;
+	justify-content: center;
+  }
+  
+  .arrow-up img, .arrow-row img {
+	margin: 5px;
+  }
+  
+  /* Centering col two and arrows container */
+  .col.two, .arrows {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+  }
 
 
 /* ===== Scrollbar CSS ===== */
