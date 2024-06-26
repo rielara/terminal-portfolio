@@ -526,6 +526,12 @@ a.button:hover {
 	width: 100%;
   }
 
+  .col.two, .header {
+	align-items: left;
+	justify-content: left;
+	width: 100%;
+  }
+
 
 /* ===== Scrollbar CSS ===== */
   /* Firefox */
