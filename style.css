@@ -526,6 +526,11 @@ a.button:hover {
 	width: 100%;
   }
 
+.reos {
+	align-items: center;
+	width: 100%;
+}
+
 
 
 /* ===== Scrollbar CSS ===== */
